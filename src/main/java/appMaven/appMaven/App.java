@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Hello world!
- ***
+ ****
  */
 public class App {
 
